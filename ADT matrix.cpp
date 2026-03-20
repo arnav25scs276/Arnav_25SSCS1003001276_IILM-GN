@@ -1,3 +1,11 @@
+//  Write a C++ program to implement the matrix ADT using a class. 
+//  The operations  supported by this ADT are:
+// a.Reading a matrix. 
+// b. Addition of matrices.
+// c. Printing a matrix.
+// d. Subtraction of matrices.
+// e. Multiplication of matrices
+
 #include<iostream>
 using namespace std;
 
